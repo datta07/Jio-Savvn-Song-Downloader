@@ -10,3 +10,5 @@
       -> run main.py (python main.py)
       -> Enter the Movie or Song Name
       -> Give response in numbers
+## Example:-
+![](run_images/run.PNG)
