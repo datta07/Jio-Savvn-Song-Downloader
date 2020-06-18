@@ -10,5 +10,9 @@
       -> run main.py (python main.py)
       -> Enter the Movie or Song Name
       -> Give response in numbers
+
+## How to use lyrics.py:-
+      -> pass a link through get_lyrics()
+      -> It returns lyrics
 ## Example:-
 ![](run_images/run.PNG)
