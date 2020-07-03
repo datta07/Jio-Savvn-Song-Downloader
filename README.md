@@ -1,6 +1,6 @@
 # Jio-Savvn-Song-Downloader
-  No need to copy paste a link,search like your are in jio savvn
-  COMMAND LINE INTERFACE Python program for Downloading songs having search option
+  1) No need to copy paste a link,search like your are in jio savvn
+  2) COMMAND LINE INTERFACE Python program for Downloading songs having search option
 
 ## How it's works:-
   It scraps the results from offical jio savvn apis based on your desire.
